@@ -1,2 +1,10 @@
-# open_vpn_google_cloud_platform
-This is tutotial how to make your own VPN for remote computting
+# Мануал по создания бесплатного VPN-сервера (на один год) для удалённых вычислений
+
+## Ключевые слова
+jupyter notebook
+openvpn
+google cloud platform
+ssh
+
+## Проблема
+Вы хотите делать сложные вычисления в jypyter notebook на своём компактном ноутбуке, и у вас есть доступ к мощной вычислительной машине с правами администратора. В этом мануале будет описан простой способ как связать два компьюетера.
